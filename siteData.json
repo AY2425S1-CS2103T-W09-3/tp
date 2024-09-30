@@ -11,7 +11,7 @@
         "raghava-chittidi": "Raghava Chittidi",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "wu-xueting": "Wu XueTing"
       },
       "headingKeywords": {}
     },
@@ -156,6 +156,13 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/xueting.md",
+      "headings": {
+        "project-hireme": "Project: HireMe"
       },
       "headingKeywords": {}
     }
