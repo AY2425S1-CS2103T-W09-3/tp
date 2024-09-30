@@ -7,7 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "zwe-zeya": "Zwe Zeya",
         "raghava-chittidi": "Raghava Chittidi",
         "johnny-doe": "Johnny Doe",
         "jean-doe": "Jean Doe",
@@ -163,6 +163,14 @@
       "src": "team/xueting.md",
       "headings": {
         "project-hireme": "Project: HireMe"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/zwezeya.md",
+      "title": "Zwe Zeya's Project Portfolio Page",
+      "headings": {
+        "project-addressbook-level-3": "Project: AddressBook Level 3"
       },
       "headingKeywords": {}
     }
