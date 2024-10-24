@@ -54,6 +54,7 @@
         "create-new-internship-application": "Create new internship application",
         "find-internship-applications": "Find internship applications",
         "filter-internship-applications": "Filter internship applications",
+        "delete-an-internship-application": "Delete an internship application",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
