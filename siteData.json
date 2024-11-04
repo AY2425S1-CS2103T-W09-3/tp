@@ -59,6 +59,7 @@
         "filter-internship-applications": "Filter internship applications",
         "sort-internship-application-list": "Sort internship application list",
         "view-chart": "View chart",
+        "close-the-application": "Close the application",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
         "appendix-requirements": "Appendix: Requirements",
         "product-scope": "Product scope",
@@ -176,7 +177,7 @@
       "src": "team/zwezeya.md",
       "title": "Zwe Zeya's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-hireme": "Project: HireMe"
       },
       "headingKeywords": {}
     }
