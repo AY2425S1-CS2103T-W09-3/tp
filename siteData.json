@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "getting-help": "Getting help",
         "create-new-internship-application": "Create new internship application",
+        "list-all-internship-applications": "List all internship applications",
         "delete-an-internship-application": "Delete an internship application",
         "find-internship-applications": "Find internship applications",
         "update-the-status-of-an-internship-application": "Update the Status of an Internship Application",
@@ -68,10 +69,13 @@
         "non-functional-requirements": "Non-Functional Requirements",
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
-        "launch-and-shutdown": "Launch and shutdown",
+        "launch": "Launch",
+        "help-window": "Help Window",
+        "adding-an-internship-application": "Adding an internship application",
         "deleting-an-internship-application": "Deleting an internship application",
         "sorting-the-list-of-internship-applications": "Sorting the list of internship applications",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "shutdown": "Shutdown"
       },
       "headingKeywords": {}
     },
