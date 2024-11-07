@@ -41,7 +41,6 @@
       "title": "Developer Guide",
       "headings": {
         "hireme-developer-guide": "HireMe Developer Guide",
-        "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
         "architecture": "Architecture",
@@ -59,6 +58,7 @@
         "update-the-status-of-an-internship-application": "Update the Status of an Internship Application",
         "filter-internship-applications": "Filter internship applications",
         "sort-internship-application-list": "Sort internship application list",
+        "clear": "Clear",
         "view-chart": "View chart",
         "close-the-application": "Close the application",
         "documentation-logging-testing-configuration-dev-ops": "Documentation, logging, testing, configuration, dev-ops",
