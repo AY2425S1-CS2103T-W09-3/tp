@@ -140,7 +140,7 @@
         "listing-all-internship-applications-list": "Listing all internship applications : /list",
         "deleting-an-internship-application-delete": "Deleting an internship application : /delete",
         "finding-applications-by-company-name-find": "Finding applications by company name: /find",
-        "updating-the-status-of-an-internship-application-accept-pending-reject": "Updating the status of an Internship Application: /accept, /pending, /reject",
+        "updating-the-status-of-an-internship-application-accept-pending-reject": "Updating the status of an internship application: /accept, /pending, /reject",
         "filtering-internship-applications-by-status-filter": "Filtering internship applications by status: /filter",
         "sorting-internship-applications-sort": "Sorting internship applications: /sort",
         "clearing-all-entries-clear": "Clearing all entries : /clear",
