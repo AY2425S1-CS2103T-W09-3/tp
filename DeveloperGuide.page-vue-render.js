@@ -464,7 +464,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("The user requests to sort the in
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. User enters an invalid number of arguments.")]),_v(" "),_c('ul',[_c('li',[_v("1a1. HireMe shows an error message")])]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("1b. User enters an invalid order.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1c. User sorts an empty list.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1c1. HireMe shows an empty list.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. User enters an invalid number of parameters.")]),_v(" "),_c('ul',[_c('li',[_v("1a1. HireMe shows an error message")])]),_v(" "),_c('p',[_v("Use case ends.")])]),_v(" "),_c('li',[_c('p',[_v("1b. User enters an invalid order.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1b1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])]),_v(" "),_c('li',[_c('p',[_v("1c. User sorts an empty list.")]),_v(" "),_c('ul',[_c('li',[_c('p',[_v("1c1. HireMe shows an empty list.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('br'),_c('br'),_v(" "),_c('strong',[_v("System")]),_v(": HireMe application")])}
@@ -569,7 +569,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("The user requests to list all in
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra argument(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra parameter(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('br'),_c('br'),_v(" "),_c('strong',[_v("System")]),_v(": HireMe application")])}
@@ -590,7 +590,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("The user requests to view a summ
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra argument(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra parameter(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('br'),_c('br'),_v(" "),_c('strong',[_v("System")]),_v(": HireMe application")])}
@@ -632,7 +632,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("The user requests to clear all i
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra argument(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra parameter(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('br'),_c('br'),_v(" "),_c('strong',[_v("System")]),_v(": HireMe application")])}
@@ -653,7 +653,7 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("The user requests to exit the ap
 with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra argument(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
+with(this){return _c('ul',[_c('li',[_v("1a. The user provided extra parameter(s) in command format.\n"),_c('ul',[_c('li',[_c('p',[_v("1a1. HireMe shows an error message.")]),_v(" "),_c('p',[_v("Use case ends.")])])])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('br'),_c('br')])}
@@ -797,6 +797,6 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Exit via Window's close button")
 with(this){return _c('h2',{attrs:{"id":"appendix-planned-enhancements"}},[_c('strong',[_v("Appendix: Planned Enhancements")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#appendix-planned-enhancements","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 20:13:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.5.3")]),_v(", generated on Mon, 11 Nov 2024, 20:31:47 GMT+8]")])])])}
 }];
   
