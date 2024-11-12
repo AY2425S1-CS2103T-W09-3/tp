@@ -83,8 +83,7 @@
         "filtering-internship-applications": "Filtering internship applications",
         "saving-data": "Saving data",
         "exit-hireme-application": "Exit HireMe Application",
-        "appendix-planned-enhancements": "Appendix: Planned Enhancements",
-        "appendix-known-issues": "Appendix: Known Issues"
+        "appendix-planned-enhancements": "Appendix: Planned Enhancements"
       },
       "headingKeywords": {}
     },
@@ -151,6 +150,7 @@
         "saving-the-data": "Saving the data",
         "faq": "FAQ",
         "troubleshooting": "Troubleshooting",
+        "known-issues": "Known Issues",
         "command-summary": "Command summary",
         "glossary": "Glossary",
         "acknowledgements": "Acknowledgements"
